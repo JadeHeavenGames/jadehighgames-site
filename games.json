@@ -1,6 +1,6 @@
 {
   "source": "https://play.google.com/store/apps/developer?hl=en_US&id=JadeHigh+Games",
-  "syncedAt": "2026-07-10T04:28:25Z",
+  "syncedAt": "2026-07-12T06:15:51Z",
   "games": [
     {
       "name": "Sword Defense",
@@ -15,12 +15,6 @@
       "image": "https://play-lh.googleusercontent.com/faAbxyOInB4MlQXYXTvBLv0hteMFF9_QlYISdqnrbLEaQGJk0E9qirXHRth1rYFxmJbLLiF__WYNFz_Z2WgW=w832-h470-rw"
     },
     {
-      "name": "Idle Monster Uprising",
-      "packageId": "com.JadeHigh.idlebrainrotfight",
-      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.idlebrainrotfight",
-      "image": "https://play-lh.googleusercontent.com/vewTQ637Ytt8HwuLebbXXfD-TXKGJjJqD8Mlmoz4HZDWzExnIeDd8N1qbOmDlBspQNRpL3AWP-tFwsec2TeMfw=w832-h470-rw"
-    },
-    {
       "name": "Dino Master IO",
       "packageId": "com.Jadehigh.dinomasterIO",
       "url": "https://play.google.com/store/apps/details?id=com.Jadehigh.dinomasterIO",
@@ -33,16 +27,22 @@
       "image": "https://play-lh.googleusercontent.com/nk_grRBAvIbm4zXyyRtAm6s276T6Hvf3H6fyRheNLJODGWgRLm48rAgwEe6LiWQcCeO-BslqhMRsboBHtfm2yjo=w832-h470-rw"
     },
     {
-      "name": "Alpaca Master",
-      "packageId": "com.jadeheaven.yangtuodashi",
-      "url": "https://play.google.com/store/apps/details?id=com.jadeheaven.yangtuodashi",
-      "image": "https://play-lh.googleusercontent.com/9m9-iG482-aIto6qgMgYdRoYWi3LVYTMCX5_mSb-CSYoDA0HFqtRJrQ-3GMx7sy3cmlx6f0iyQz3nRV-fKMASw=w832-h470-rw"
+      "name": "Idle Monster Uprising",
+      "packageId": "com.JadeHigh.idlebrainrotfight",
+      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.idlebrainrotfight",
+      "image": "https://play-lh.googleusercontent.com/vewTQ637Ytt8HwuLebbXXfD-TXKGJjJqD8Mlmoz4HZDWzExnIeDd8N1qbOmDlBspQNRpL3AWP-tFwsec2TeMfw=w832-h470-rw"
     },
     {
       "name": "Merge Nightmare-idle impostor",
       "packageId": "com.JadeHeaven.MergeBlue",
       "url": "https://play.google.com/store/apps/details?id=com.JadeHeaven.MergeBlue",
       "image": "https://play-lh.googleusercontent.com/m-qo5c9l7A2MSsEfz0Ngp9S9KFccd1_vupWcA3nl1cyV2QQ7yUP6oEk6aWwttREDmasj9HXHpLojnTlp1OEu-w=w832-h470-rw"
+    },
+    {
+      "name": "Alpaca Master",
+      "packageId": "com.jadeheaven.yangtuodashi",
+      "url": "https://play.google.com/store/apps/details?id=com.jadeheaven.yangtuodashi",
+      "image": "https://play-lh.googleusercontent.com/9m9-iG482-aIto6qgMgYdRoYWi3LVYTMCX5_mSb-CSYoDA0HFqtRJrQ-3GMx7sy3cmlx6f0iyQz3nRV-fKMASw=w832-h470-rw"
     },
     {
       "name": "Color Block Master",
