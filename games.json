@@ -1,6 +1,6 @@
 {
   "source": "https://play.google.com/store/apps/developer?hl=en_US&id=JadeHigh+Games",
-  "syncedAt": "2026-07-13T06:34:47Z",
+  "syncedAt": "2026-07-14T05:43:14Z",
   "games": [
     {
       "name": "Sword Defense",
@@ -21,16 +21,16 @@
       "image": "https://play-lh.googleusercontent.com/vewTQ637Ytt8HwuLebbXXfD-TXKGJjJqD8Mlmoz4HZDWzExnIeDd8N1qbOmDlBspQNRpL3AWP-tFwsec2TeMfw=w832-h470-rw"
     },
     {
-      "name": "Gem Master",
-      "packageId": "com.JadeHigh.GemMaster",
-      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.GemMaster",
-      "image": "https://play-lh.googleusercontent.com/nk_grRBAvIbm4zXyyRtAm6s276T6Hvf3H6fyRheNLJODGWgRLm48rAgwEe6LiWQcCeO-BslqhMRsboBHtfm2yjo=w832-h470-rw"
-    },
-    {
       "name": "Dino Master IO",
       "packageId": "com.Jadehigh.dinomasterIO",
       "url": "https://play.google.com/store/apps/details?id=com.Jadehigh.dinomasterIO",
       "image": "https://play-lh.googleusercontent.com/qGvHxztYIM_8l_oUZV0j-dWRzgMFlKaTPHCQ-dLcm1hQnl5aoUSzcfEU8TuSIsqTJj8Kc7-klxLNFQ66Aw2d=w832-h470-rw"
+    },
+    {
+      "name": "Gem Master",
+      "packageId": "com.JadeHigh.GemMaster",
+      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.GemMaster",
+      "image": "https://play-lh.googleusercontent.com/nk_grRBAvIbm4zXyyRtAm6s276T6Hvf3H6fyRheNLJODGWgRLm48rAgwEe6LiWQcCeO-BslqhMRsboBHtfm2yjo=w832-h470-rw"
     },
     {
       "name": "Merge Nightmare-idle impostor",
