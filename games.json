@@ -1,12 +1,18 @@
 {
   "source": "https://play.google.com/store/apps/developer?hl=en_US&id=JadeHigh+Games",
-  "syncedAt": "2026-07-17T05:58:04Z",
+  "syncedAt": "2026-07-18T05:39:28Z",
   "games": [
     {
       "name": "Sword Defense",
       "packageId": "com.jadehigh.SowrdDefense",
       "url": "https://play.google.com/store/apps/details?id=com.jadehigh.SowrdDefense",
       "image": "https://play-lh.googleusercontent.com/gGNiBAclvw6k2t8av-2vjqgEEyPB7DjDqcssOvbzdb9xwDvRUQwsPuS7wCA2vevfTkPuA5eTv0daVAAoyJrTqA=w832-h470-rw"
+    },
+    {
+      "name": "Merge Breakout: 2048 Arena",
+      "packageId": "com.JadeHigh.survivor2048",
+      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.survivor2048",
+      "image": "https://play-lh.googleusercontent.com/U701OD02C47A0LOprXAeniA_I7N0Kp0_IpjWTP6eS1JcVTLx-_Ww2BIqskxRLM_A0Ns6Vorwlk9TIFur5id-iQ=w832-h470-rw"
     },
     {
       "name": "Coin Sort Puzzle",
@@ -27,16 +33,16 @@
       "image": "https://play-lh.googleusercontent.com/qGvHxztYIM_8l_oUZV0j-dWRzgMFlKaTPHCQ-dLcm1hQnl5aoUSzcfEU8TuSIsqTJj8Kc7-klxLNFQ66Aw2d=w832-h470-rw"
     },
     {
-      "name": "Alpaca Master",
-      "packageId": "com.jadeheaven.yangtuodashi",
-      "url": "https://play.google.com/store/apps/details?id=com.jadeheaven.yangtuodashi",
-      "image": "https://play-lh.googleusercontent.com/9m9-iG482-aIto6qgMgYdRoYWi3LVYTMCX5_mSb-CSYoDA0HFqtRJrQ-3GMx7sy3cmlx6f0iyQz3nRV-fKMASw=w832-h470-rw"
-    },
-    {
       "name": "Color Block Master",
       "packageId": "com.JadeHigh.ColorBlockMaster",
       "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.ColorBlockMaster",
       "image": "https://play-lh.googleusercontent.com/nNzmXeRlG2tEbYb5VKLRJUg4dwqPMNwLFUuPTUjM7_jYzMtFv5ESZXzHKF-wlhIPvBiX9Ivjxj6fxOrs4lIh8Q=w832-h470-rw"
+    },
+    {
+      "name": "Alpaca Master",
+      "packageId": "com.jadeheaven.yangtuodashi",
+      "url": "https://play.google.com/store/apps/details?id=com.jadeheaven.yangtuodashi",
+      "image": "https://play-lh.googleusercontent.com/9m9-iG482-aIto6qgMgYdRoYWi3LVYTMCX5_mSb-CSYoDA0HFqtRJrQ-3GMx7sy3cmlx6f0iyQz3nRV-fKMASw=w832-h470-rw"
     },
     {
       "name": "Gem Master",
@@ -45,22 +51,16 @@
       "image": "https://play-lh.googleusercontent.com/nk_grRBAvIbm4zXyyRtAm6s276T6Hvf3H6fyRheNLJODGWgRLm48rAgwEe6LiWQcCeO-BslqhMRsboBHtfm2yjo=w832-h470-rw"
     },
     {
-      "name": "Merge Nightmare-idle impostor",
-      "packageId": "com.JadeHeaven.MergeBlue",
-      "url": "https://play.google.com/store/apps/details?id=com.JadeHeaven.MergeBlue",
-      "image": "https://play-lh.googleusercontent.com/m-qo5c9l7A2MSsEfz0Ngp9S9KFccd1_vupWcA3nl1cyV2QQ7yUP6oEk6aWwttREDmasj9HXHpLojnTlp1OEu-w=w832-h470-rw"
-    },
-    {
       "name": "Girl Master",
       "packageId": "com.jadehigh.GirlMergeMaster",
       "url": "https://play.google.com/store/apps/details?id=com.jadehigh.GirlMergeMaster",
       "image": "https://play-lh.googleusercontent.com/Vkiriwu5f493y-2-A2rKpUXvsFlYsoNGovDSzP4KDNkMTt-90oeZx7sgxT0j2AIqOaTdiPI1hebx-BGG3TqD9w=w832-h470-rw"
     },
     {
-      "name": "Merge Breakout: 2048 Arena",
-      "packageId": "com.JadeHigh.survivor2048",
-      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.survivor2048",
-      "image": "https://play-lh.googleusercontent.com/U701OD02C47A0LOprXAeniA_I7N0Kp0_IpjWTP6eS1JcVTLx-_Ww2BIqskxRLM_A0Ns6Vorwlk9TIFur5id-iQ=w832-h470-rw"
+      "name": "Merge Nightmare-idle impostor",
+      "packageId": "com.JadeHeaven.MergeBlue",
+      "url": "https://play.google.com/store/apps/details?id=com.JadeHeaven.MergeBlue",
+      "image": "https://play-lh.googleusercontent.com/m-qo5c9l7A2MSsEfz0Ngp9S9KFccd1_vupWcA3nl1cyV2QQ7yUP6oEk6aWwttREDmasj9HXHpLojnTlp1OEu-w=w832-h470-rw"
     },
     {
       "name": "Dig Gem Mining!",
