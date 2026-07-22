@@ -1,6 +1,6 @@
 {
   "source": "https://play.google.com/store/apps/developer?hl=en_US&id=JadeHigh+Games",
-  "syncedAt": "2026-07-21T06:08:50Z",
+  "syncedAt": "2026-07-22T06:07:30Z",
   "games": [
     {
       "name": "Sword Defense",
@@ -21,6 +21,12 @@
       "image": "https://play-lh.googleusercontent.com/faAbxyOInB4MlQXYXTvBLv0hteMFF9_QlYISdqnrbLEaQGJk0E9qirXHRth1rYFxmJbLLiF__WYNFz_Z2WgW=w832-h470-rw"
     },
     {
+      "name": "Alpaca Master",
+      "packageId": "com.jadeheaven.yangtuodashi",
+      "url": "https://play.google.com/store/apps/details?id=com.jadeheaven.yangtuodashi",
+      "image": "https://play-lh.googleusercontent.com/9m9-iG482-aIto6qgMgYdRoYWi3LVYTMCX5_mSb-CSYoDA0HFqtRJrQ-3GMx7sy3cmlx6f0iyQz3nRV-fKMASw=w832-h470-rw"
+    },
+    {
       "name": "Idle Monster Uprising",
       "packageId": "com.JadeHigh.idlebrainrotfight",
       "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.idlebrainrotfight",
@@ -31,12 +37,6 @@
       "packageId": "com.Jadehigh.dinomasterIO",
       "url": "https://play.google.com/store/apps/details?id=com.Jadehigh.dinomasterIO",
       "image": "https://play-lh.googleusercontent.com/qGvHxztYIM_8l_oUZV0j-dWRzgMFlKaTPHCQ-dLcm1hQnl5aoUSzcfEU8TuSIsqTJj8Kc7-klxLNFQ66Aw2d=w832-h470-rw"
-    },
-    {
-      "name": "Alpaca Master",
-      "packageId": "com.jadeheaven.yangtuodashi",
-      "url": "https://play.google.com/store/apps/details?id=com.jadeheaven.yangtuodashi",
-      "image": "https://play-lh.googleusercontent.com/9m9-iG482-aIto6qgMgYdRoYWi3LVYTMCX5_mSb-CSYoDA0HFqtRJrQ-3GMx7sy3cmlx6f0iyQz3nRV-fKMASw=w832-h470-rw"
     },
     {
       "name": "Color Block Master",
