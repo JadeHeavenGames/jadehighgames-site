@@ -1,6 +1,6 @@
 {
   "source": "https://play.google.com/store/apps/developer?hl=en_US&id=JadeHigh+Games",
-  "syncedAt": "2026-08-31T09:55:17Z",
+  "syncedAt": "2026-09-01T08:46:18Z",
   "games": [
     {
       "name": "Sword Defense",
@@ -33,6 +33,12 @@
       "image": "https://play-lh.googleusercontent.com/9m9-iG482-aIto6qgMgYdRoYWi3LVYTMCX5_mSb-CSYoDA0HFqtRJrQ-3GMx7sy3cmlx6f0iyQz3nRV-fKMASw=w832-h470-rw"
     },
     {
+      "name": "Car Master",
+      "packageId": "com.jadehigh.carpuzzleunlock",
+      "url": "https://play.google.com/store/apps/details?id=com.jadehigh.carpuzzleunlock",
+      "image": "https://play-lh.googleusercontent.com/2fhxr3g_fRChNbBGIw5oH4ryPNC4fekg7UMnawxG1QVFtTvauQ4hAckTRdJiznNkEfImXzrt_7HaDuvgASTs=w832-h470-rw"
+    },
+    {
       "name": "Dino Master IO",
       "packageId": "com.Jadehigh.dinomasterIO",
       "url": "https://play.google.com/store/apps/details?id=com.Jadehigh.dinomasterIO",
@@ -43,12 +49,6 @@
       "packageId": "com.JadeHigh.Sunwukong",
       "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.Sunwukong",
       "image": "https://play-lh.googleusercontent.com/4459NYc4Pox4PVlOM5YKDWWKA-IMO__5_BQP7MCvgbFZL95568mSfYOgTroywYYJTjrj07K_gOkq2Bbye3_KlA=w832-h470-rw"
-    },
-    {
-      "name": "Car Master",
-      "packageId": "com.jadehigh.carpuzzleunlock",
-      "url": "https://play.google.com/store/apps/details?id=com.jadehigh.carpuzzleunlock",
-      "image": "https://play-lh.googleusercontent.com/2fhxr3g_fRChNbBGIw5oH4ryPNC4fekg7UMnawxG1QVFtTvauQ4hAckTRdJiznNkEfImXzrt_7HaDuvgASTs=w832-h470-rw"
     },
     {
       "name": "Idle Monster Uprising",
