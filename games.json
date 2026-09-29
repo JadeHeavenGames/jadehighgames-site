@@ -1,6 +1,6 @@
 {
   "source": "https://play.google.com/store/apps/developer?hl=en_US&id=JadeHigh+Games",
-  "syncedAt": "2026-09-28T09:58:58Z",
+  "syncedAt": "2026-09-29T09:58:39Z",
   "games": [
     {
       "name": "Sword Defense",
@@ -15,16 +15,16 @@
       "image": "https://play-lh.googleusercontent.com/U701OD02C47A0LOprXAeniA_I7N0Kp0_IpjWTP6eS1JcVTLx-_Ww2BIqskxRLM_A0Ns6Vorwlk9TIFur5id-iQ=w832-h470-rw"
     },
     {
-      "name": "Coin Sort Puzzle",
-      "packageId": "com.jadehigh.CoinSortPuzzle",
-      "url": "https://play.google.com/store/apps/details?id=com.jadehigh.CoinSortPuzzle",
-      "image": "https://play-lh.googleusercontent.com/faAbxyOInB4MlQXYXTvBLv0hteMFF9_QlYISdqnrbLEaQGJk0E9qirXHRth1rYFxmJbLLiF__WYNFz_Z2WgW=w832-h470-rw"
-    },
-    {
       "name": "Color Block Master",
       "packageId": "com.JadeHigh.ColorBlockMaster",
       "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.ColorBlockMaster",
       "image": "https://play-lh.googleusercontent.com/nNzmXeRlG2tEbYb5VKLRJUg4dwqPMNwLFUuPTUjM7_jYzMtFv5ESZXzHKF-wlhIPvBiX9Ivjxj6fxOrs4lIh8Q=w832-h470-rw"
+    },
+    {
+      "name": "Coin Sort Puzzle",
+      "packageId": "com.jadehigh.CoinSortPuzzle",
+      "url": "https://play.google.com/store/apps/details?id=com.jadehigh.CoinSortPuzzle",
+      "image": "https://play-lh.googleusercontent.com/faAbxyOInB4MlQXYXTvBLv0hteMFF9_QlYISdqnrbLEaQGJk0E9qirXHRth1rYFxmJbLLiF__WYNFz_Z2WgW=w832-h470-rw"
     },
     {
       "name": "Idle Monster Uprising",
@@ -45,12 +45,6 @@
       "image": "https://play-lh.googleusercontent.com/9m9-iG482-aIto6qgMgYdRoYWi3LVYTMCX5_mSb-CSYoDA0HFqtRJrQ-3GMx7sy3cmlx6f0iyQz3nRV-fKMASw=w832-h470-rw"
     },
     {
-      "name": "Car Master",
-      "packageId": "com.jadehigh.carpuzzleunlock",
-      "url": "https://play.google.com/store/apps/details?id=com.jadehigh.carpuzzleunlock",
-      "image": "https://play-lh.googleusercontent.com/2fhxr3g_fRChNbBGIw5oH4ryPNC4fekg7UMnawxG1QVFtTvauQ4hAckTRdJiznNkEfImXzrt_7HaDuvgASTs=w832-h470-rw"
-    },
-    {
       "name": "Merge Nightmare-idle impostor",
       "packageId": "com.JadeHeaven.MergeBlue",
       "url": "https://play.google.com/store/apps/details?id=com.JadeHeaven.MergeBlue",
@@ -63,16 +57,22 @@
       "image": "https://play-lh.googleusercontent.com/4459NYc4Pox4PVlOM5YKDWWKA-IMO__5_BQP7MCvgbFZL95568mSfYOgTroywYYJTjrj07K_gOkq2Bbye3_KlA=w832-h470-rw"
     },
     {
-      "name": "Gem Master",
-      "packageId": "com.JadeHigh.GemMaster",
-      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.GemMaster",
-      "image": "https://play-lh.googleusercontent.com/nk_grRBAvIbm4zXyyRtAm6s276T6Hvf3H6fyRheNLJODGWgRLm48rAgwEe6LiWQcCeO-BslqhMRsboBHtfm2yjo=w832-h470-rw"
+      "name": "Car Master",
+      "packageId": "com.jadehigh.carpuzzleunlock",
+      "url": "https://play.google.com/store/apps/details?id=com.jadehigh.carpuzzleunlock",
+      "image": "https://play-lh.googleusercontent.com/2fhxr3g_fRChNbBGIw5oH4ryPNC4fekg7UMnawxG1QVFtTvauQ4hAckTRdJiznNkEfImXzrt_7HaDuvgASTs=w832-h470-rw"
     },
     {
       "name": "Girl Master",
       "packageId": "com.jadehigh.GirlMergeMaster",
       "url": "https://play.google.com/store/apps/details?id=com.jadehigh.GirlMergeMaster",
       "image": "https://play-lh.googleusercontent.com/Vkiriwu5f493y-2-A2rKpUXvsFlYsoNGovDSzP4KDNkMTt-90oeZx7sgxT0j2AIqOaTdiPI1hebx-BGG3TqD9w=w832-h470-rw"
+    },
+    {
+      "name": "Gem Master",
+      "packageId": "com.JadeHigh.GemMaster",
+      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.GemMaster",
+      "image": "https://play-lh.googleusercontent.com/nk_grRBAvIbm4zXyyRtAm6s276T6Hvf3H6fyRheNLJODGWgRLm48rAgwEe6LiWQcCeO-BslqhMRsboBHtfm2yjo=w832-h470-rw"
     },
     {
       "name": "Tower Master",
