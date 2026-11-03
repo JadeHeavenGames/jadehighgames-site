@@ -1,6 +1,6 @@
 {
   "source": "https://play.google.com/store/apps/developer?hl=en_US&id=JadeHigh+Games",
-  "syncedAt": "2026-11-02T11:27:29Z",
+  "syncedAt": "2026-11-03T11:03:50Z",
   "games": [
     {
       "name": "Sword Defense",
@@ -21,12 +21,6 @@
       "image": "https://play-lh.googleusercontent.com/faAbxyOInB4MlQXYXTvBLv0hteMFF9_QlYISdqnrbLEaQGJk0E9qirXHRth1rYFxmJbLLiF__WYNFz_Z2WgW=w832-h470-rw"
     },
     {
-      "name": "Idle Monster Uprising",
-      "packageId": "com.JadeHigh.idlebrainrotfight",
-      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.idlebrainrotfight",
-      "image": "https://play-lh.googleusercontent.com/vewTQ637Ytt8HwuLebbXXfD-TXKGJjJqD8Mlmoz4HZDWzExnIeDd8N1qbOmDlBspQNRpL3AWP-tFwsec2TeMfw=w832-h470-rw"
-    },
-    {
       "name": "Merge Nightmare-idle impostor",
       "packageId": "com.JadeHeaven.MergeBlue",
       "url": "https://play.google.com/store/apps/details?id=com.JadeHeaven.MergeBlue",
@@ -45,22 +39,28 @@
       "image": "https://play-lh.googleusercontent.com/qGvHxztYIM_8l_oUZV0j-dWRzgMFlKaTPHCQ-dLcm1hQnl5aoUSzcfEU8TuSIsqTJj8Kc7-klxLNFQ66Aw2d=w832-h470-rw"
     },
     {
+      "name": "Idle Monster Uprising",
+      "packageId": "com.JadeHigh.idlebrainrotfight",
+      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.idlebrainrotfight",
+      "image": "https://play-lh.googleusercontent.com/vewTQ637Ytt8HwuLebbXXfD-TXKGJjJqD8Mlmoz4HZDWzExnIeDd8N1qbOmDlBspQNRpL3AWP-tFwsec2TeMfw=w832-h470-rw"
+    },
+    {
       "name": "Color Block Master",
       "packageId": "com.JadeHigh.ColorBlockMaster",
       "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.ColorBlockMaster",
       "image": "https://play-lh.googleusercontent.com/nNzmXeRlG2tEbYb5VKLRJUg4dwqPMNwLFUuPTUjM7_jYzMtFv5ESZXzHKF-wlhIPvBiX9Ivjxj6fxOrs4lIh8Q=w832-h470-rw"
     },
     {
-      "name": "West Lengend-Kong",
-      "packageId": "com.JadeHigh.Sunwukong",
-      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.Sunwukong",
-      "image": "https://play-lh.googleusercontent.com/4459NYc4Pox4PVlOM5YKDWWKA-IMO__5_BQP7MCvgbFZL95568mSfYOgTroywYYJTjrj07K_gOkq2Bbye3_KlA=w832-h470-rw"
-    },
-    {
       "name": "Girl Master",
       "packageId": "com.jadehigh.GirlMergeMaster",
       "url": "https://play.google.com/store/apps/details?id=com.jadehigh.GirlMergeMaster",
       "image": "https://play-lh.googleusercontent.com/Vkiriwu5f493y-2-A2rKpUXvsFlYsoNGovDSzP4KDNkMTt-90oeZx7sgxT0j2AIqOaTdiPI1hebx-BGG3TqD9w=w832-h470-rw"
+    },
+    {
+      "name": "West Lengend-Kong",
+      "packageId": "com.JadeHigh.Sunwukong",
+      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.Sunwukong",
+      "image": "https://play-lh.googleusercontent.com/4459NYc4Pox4PVlOM5YKDWWKA-IMO__5_BQP7MCvgbFZL95568mSfYOgTroywYYJTjrj07K_gOkq2Bbye3_KlA=w832-h470-rw"
     },
     {
       "name": "Gem Master",
