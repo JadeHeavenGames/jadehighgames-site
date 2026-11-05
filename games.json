@@ -1,6 +1,6 @@
 {
   "source": "https://play.google.com/store/apps/developer?hl=en_US&id=JadeHigh+Games",
-  "syncedAt": "2026-11-04T11:13:26Z",
+  "syncedAt": "2026-11-05T11:13:11Z",
   "games": [
     {
       "name": "Sword Defense",
@@ -45,6 +45,12 @@
       "image": "https://play-lh.googleusercontent.com/vewTQ637Ytt8HwuLebbXXfD-TXKGJjJqD8Mlmoz4HZDWzExnIeDd8N1qbOmDlBspQNRpL3AWP-tFwsec2TeMfw=w832-h470-rw"
     },
     {
+      "name": "West Lengend-Kong",
+      "packageId": "com.JadeHigh.Sunwukong",
+      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.Sunwukong",
+      "image": "https://play-lh.googleusercontent.com/4459NYc4Pox4PVlOM5YKDWWKA-IMO__5_BQP7MCvgbFZL95568mSfYOgTroywYYJTjrj07K_gOkq2Bbye3_KlA=w832-h470-rw"
+    },
+    {
       "name": "Girl Master",
       "packageId": "com.jadehigh.GirlMergeMaster",
       "url": "https://play.google.com/store/apps/details?id=com.jadehigh.GirlMergeMaster",
@@ -55,12 +61,6 @@
       "packageId": "com.JadeHigh.ColorBlockMaster",
       "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.ColorBlockMaster",
       "image": "https://play-lh.googleusercontent.com/nNzmXeRlG2tEbYb5VKLRJUg4dwqPMNwLFUuPTUjM7_jYzMtFv5ESZXzHKF-wlhIPvBiX9Ivjxj6fxOrs4lIh8Q=w832-h470-rw"
-    },
-    {
-      "name": "West Lengend-Kong",
-      "packageId": "com.JadeHigh.Sunwukong",
-      "url": "https://play.google.com/store/apps/details?id=com.JadeHigh.Sunwukong",
-      "image": "https://play-lh.googleusercontent.com/4459NYc4Pox4PVlOM5YKDWWKA-IMO__5_BQP7MCvgbFZL95568mSfYOgTroywYYJTjrj07K_gOkq2Bbye3_KlA=w832-h470-rw"
     },
     {
       "name": "Gem Master",
